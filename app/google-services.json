@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "46304805726",
+    "firebase_url": "https://babble-eb18d.firebaseio.com",
+    "project_id": "babble-eb18d",
+    "storage_bucket": "babble-eb18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46304805726:android:a95c1878c48e6ae35dc5cf",
+        "android_client_info": {
+          "package_name": "com.android.babble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46304805726-1316gc587fat2dsuv0gs3puk95or79qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI98gyMF73-ixx5STKC5MQtw8mmPEtuuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46304805726-1316gc587fat2dsuv0gs3puk95or79qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
